@@ -1,0 +1,23 @@
+{
+  "name": "darth",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolulope-od/darth.git"
+  },
+  "keywords": [
+    "portfolio",
+    "personal-website"
+  ],
+  "author": "Tolulope Odueke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tolulope-od/darth/issues"
+  },
+  "homepage": "https://github.com/tolulope-od/darth#readme"
+}
