@@ -4,6 +4,9 @@
   "description": "Personal website",
   "main": "index.js",
   "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start -p $PORT",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/tolulope-od/darth/issues"
   },
-  "homepage": "https://github.com/tolulope-od/darth#readme"
+  "homepage": "https://github.com/tolulope-od/darth#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.0.6",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-markdown": "^4.2.2"
+  }
 }
